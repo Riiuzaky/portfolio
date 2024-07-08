@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="bg-black-100 flex flex-col sm:flex-row justify-evenly">
       <div className="flex flex-1 justify-center px-10 py-6">
         <a
-          href="https://github.com/Riiuzaky"
+          href="https://github.com/Riiuzaky/portfolio"
           target="_blank"
           rel="noreferrer"
           className="flex justify-center items-center "
