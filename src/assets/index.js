@@ -43,7 +43,6 @@ import dart from "./tech/dart.svg";
 import playwright from "./tech/playwright.svg";
 import Appium from "./tech/appium.svg";
 import robotframework from "./tech/robotframework.svg";
-
 import imexhs from "./company/imexhs.png";
 import sophos from "./company/sophos.png";
 import choucair from "./company/Choucair.png";
