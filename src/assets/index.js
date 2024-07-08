@@ -38,7 +38,7 @@ import tailwind from "./tech/tailwindcss-icon.svg";
 import typescript from "./tech/typescript-icon.svg";
 import vite from "./tech/vite.svg";
 import astro from "./tech/astro.png";
-import Azure from "./tech/Azure.svg";
+import Azure from "./tech/azure.svg";
 import dart from "./tech/dart.svg";
 import playwright from "./tech/Playwright.svg";
 import Appium from "./tech/Appium.svg";
