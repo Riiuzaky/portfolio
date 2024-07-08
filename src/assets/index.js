@@ -46,7 +46,7 @@ import robotframework from "./tech/robotframework.svg";
 
 import imexhs from "./company/imexhs.png";
 import sophos from "./company/sophos.png";
-import choucair from "./company/choucair.png";
+import choucair from "./company/Choucair.png";
 
 
 export {
