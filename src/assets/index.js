@@ -41,7 +41,7 @@ import astro from "./tech/astro.png";
 import Azure from "./tech/azure.svg";
 import dart from "./tech/dart.svg";
 import playwright from "./tech/playwright.svg";
-import Appium from "./tech/Appium.svg";
+import Appium from "./tech/appium.svg";
 import robotframework from "./tech/robotframework.svg";
 
 import imexhs from "./company/imexhs.png";
