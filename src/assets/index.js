@@ -31,7 +31,7 @@ import postgres from "./tech/postgresql.svg";
 import python from "./tech/python.svg";
 import Jmeter from "./tech/apachejmeter.svg";
 import react from "./tech/react.svg";
-import Angular from "./tech/Angular.svg";
+import Angular from "./tech/angular.svg";
 import jira from "./tech/jira.svg";
 import selenium from "./tech/selenium.svg";
 import tailwind from "./tech/tailwindcss-icon.svg";
