@@ -47,7 +47,7 @@ const About = () => {
         </motion.p>
         <div className="grid grid-cols-1 mt-8">
           <a
-            href="./../assets/Curriculum-Jonathan-Cruz.pdf"
+            href="./../assets/JonathanCruz.pdf"
             download
             className="bg-tertiary rounded-[20px] py-2 px-4 min-h-[50px] w-64 flex justify-evenly items-center flex-col"
           >
