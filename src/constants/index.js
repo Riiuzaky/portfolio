@@ -22,7 +22,6 @@ import {
   tailwind,
   typescript,
   vite,
-  imexhs,
   choucair,
   Angular,
   github,
@@ -81,7 +80,7 @@ const proficientStack = [
     icon: Appium,
   },
   {
-    name: "robotFwork",
+    name: "robot",
     icon: robotframework,
   },
   {
